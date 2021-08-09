@@ -16,7 +16,7 @@ pycryptodomex==3.8.1
 PyInstaller==3.4
 pypiwin32==223
 pytz==2019.1
-pywin32==224
+pywin32==301
 pywin32-ctypes==0.2.0
 requests==2.21.0
 six==1.12.0
